@@ -1,0 +1,45 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.chat-window {
+  margin: 20px;
+  border: 1px solid #ccc;
+  height: 400px;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.message-form {
+  display: flex;
+  margin: 20px;
+}
+
+.message-form input {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.message {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 60%;
+}
+
+.user {
+  background-color: #007bff;
+  color: white;
+  align-self: flex-end;
+}
+
+.bot {
+  background-color: #eee;
+  align-self: flex-start;
+}
