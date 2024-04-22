@@ -1,4 +1,4 @@
-# CS6120CustomerServiceChatbot
+# Customer Service Chatbot & Evaluation
 Final project for CS6120 at Northeastern University. 
 
 In this project we are fine-tuning FLAN-T5 to serve as a customer service chatbot and proposing a novel metric for evaluating chatbot performance called the RAJ Score.
