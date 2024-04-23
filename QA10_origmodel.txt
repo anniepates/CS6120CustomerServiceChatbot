@@ -1,0 +1,39 @@
+Q1: "Needs a little more work....."
+A1: "a little more work"
+Q2: "That's not helpful. What specific actions are you taking to improve it?"
+
+Q1: "Please cancel."
+A1: "I'm sorry."
+Q2: "Sorry isn't enough. I asked for a cancellation. Can you do it or not?"
+
+Q1: "Waste of time."
+A1: "a waste of time"
+Q2: "This is just repeating what I said, not solving anything. How will you fix this?"
+
+Q1: "Will not open on my window 8. boooo"
+A1: "Cannot open on my window 8."
+Q2: "Just repeating the problem back to me isn't solving it. What's the solution?"
+
+Q1: "God awful and didn't work"
+A1: "God awful and didn't work"
+Q2: "Why are you just echoing me? I need a real fix, not an echo."
+
+Q1: "I think its complicated to use to be honest."
+A1: "It's a bit confusing."
+Q2: "Acknowledging it's confusing isn't enough. What are you doing to simplify it?"
+
+Q1: "it wont download"
+A1: "It won't download"
+Q2: "You're not helping. What steps should I take to successfully download it?"
+
+Q1: "did not use, internet connection too slow"
+A1: "I'm not sure what the problem is."
+Q2: "That's your job to know! What can be done to make your software perform better on slower connections?"
+
+Q1: "Thought this included search with it - and no - it does not - added fees for everything"
+A1: "- and no - it does not"
+Q2: "Simply confirming the issue doesn't resolve my frustration with the fees. What can be done about this?"
+
+Q1: "Unable to download!!!"
+A1: "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+Q2: "What kind of response is that? I need clear instructions on how to download it!"

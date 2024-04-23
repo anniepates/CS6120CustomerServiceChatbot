@@ -1,0 +1,39 @@
+Q1: "Needs a little more work....."
+A1: "We're working on improving the experience. Please let us know how we can help."
+Q2: "Thanks for the update. Could you specify what improvements are planned?"
+
+Q1: "Please cancel."
+A1: "Let's cancel your reservation. Your reservation is confirmed and your payment processed."
+Q2: "Thanks for the prompt response. Can you confirm that the payment will be refunded?"
+
+Q1: "Waste of time."
+A1: "We're sorry to hear that. Let's discuss how we can make it right."
+Q2: "I appreciate the apology. What options do I have to resolve this quickly?"
+
+Q1: "Will not open on my window 8. boooo"
+A1: "Let's troubleshoot this issue together. Please reach out for support."
+Q2: "Thank you for the help. Could you guide me through the troubleshooting steps?"
+
+Q1: "God awful and didn't work"
+A1: "We're sorry to hear that. We're here to help find a solution that"
+Q2: "I'm glad to hear that. What solutions are currently available to fix this issue?"
+
+Q1: "I think it's complicated to use to be honest."
+A1: "We aim for simplicity. Let's work on simplifying the interface."
+Q2: "That sounds promising. When can I expect to see these changes implemented?"
+
+Q1: "It won't download"
+A1: "Download issues are frustrating. Let's troubleshoot this together."
+Q2: "Thank you for addressing this. What steps should I follow to troubleshoot?"
+
+Q1: "Did not use, internet connection too slow"
+A1: "We're sorry to hear that. Let's address the connection issues."
+Q2: "Thanks for the quick reply. Can you recommend any specific adjustments to improve connection speeds?"
+
+Q1: "Thought this included search with it - and no - it does not - added fees for everything"
+A1: "We're sorry to hear that. We're here to help with any additional questions."
+Q2: "I appreciate the support. Can you explain what additional fees are involved?"
+
+Q1: "Unable to download!!!"
+A1: "Let's troubleshoot this issue together. Please contact us for immediate assistance."
+Q2: "Thanks for the assistance. Could you guide me on how to proceed with the download?"
